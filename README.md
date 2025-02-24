@@ -31,7 +31,8 @@
 
 2. Установи V2Ray с официального скрипта:
     ```bash
-    bash <(curl -s -L https://install.direct/go.sh)
+    bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+
     ```
 
 3. Проверь, что V2Ray установлен:
